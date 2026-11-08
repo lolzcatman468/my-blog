@@ -1,0 +1,8 @@
+title: Everybody467's Blog
+description: My little corner of the internet.
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
